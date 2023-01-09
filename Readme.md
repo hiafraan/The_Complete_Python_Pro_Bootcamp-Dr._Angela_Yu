@@ -1,0 +1,30 @@
+# Python Pro Bootcamp Projects
+
+This repository contains the projects I completed as part of the "100 Days of Code: The Complete Python Pro Bootcamp" course, taught by Dr. Angela Yu.
+
+## Course Description
+
+The "100 Days of Code: The Complete Python Pro Bootcamp" is an in-depth and comprehensive course that covers a wide range of topics in Python programming. Through hands-on projects and exercises, I learned how to build web applications, work with data and databases, and create data visualizations using Python.
+
+## Project Overview
+
+This repository contains the following projects:
+
+### Beginner Level
+
+- Project 1: Brand Name Generator.
+- Project 2: Tip Calculator.
+- Project 3: Treasure Island.
+- Project 4: Rock Paper Scissors Game.
+- Project 5: Password Generator.
+- Project 7: Hangman.
+- Project 8: Caesar Cipher.
+- Project 9: Secret Auction.
+- Project 10: Calculator.
+- Project 11: Blackjack.
+- Project 12: Guess the Number.
+- Project 14: Higher Lower Game.
+
+> Each project has detailed comments, and a repository contains my short reference, which will help you debug your code while learning as fast as possible.
+
+> I have added a final project output as a video or image in each project. This will give you a clear understanding of the project and its functionality.
