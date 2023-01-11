@@ -24,6 +24,9 @@ This repository contains the following projects:
 - Project 11: Blackjack.
 - Project 12: Guess the Number.
 - Project 14: Higher Lower Game.
+
+### Intermediate Level
+
 - Project 15:
 - Project 16:
 - Project 17:
